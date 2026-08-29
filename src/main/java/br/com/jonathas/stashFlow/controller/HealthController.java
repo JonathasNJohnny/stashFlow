@@ -1,4 +1,4 @@
-package br.com.jonathas.stashFlow.controller;
+package br.com.jonathas.stashflow.controller;
 
 import java.time.Instant;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package br.com.jonathas.stashFlow.domain;
+package br.com.jonathas.stashflow.domain;
 
 import java.math.BigDecimal;
 import java.time.Instant;

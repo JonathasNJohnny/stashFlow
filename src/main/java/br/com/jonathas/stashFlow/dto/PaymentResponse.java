@@ -1,11 +1,11 @@
-package br.com.jonathas.stashFlow.dto;
+package br.com.jonathas.stashflow.dto;
 
 import java.math.BigDecimal;
 import java.time.Instant;
 import java.util.UUID;
 
-import br.com.jonathas.stashFlow.domain.Payment;
-import br.com.jonathas.stashFlow.domain.PaymentStatus;
+import br.com.jonathas.stashflow.domain.Payment;
+import br.com.jonathas.stashflow.domain.PaymentStatus;
 
 public record PaymentResponse(
         UUID id,

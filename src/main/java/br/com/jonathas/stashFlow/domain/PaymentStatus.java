@@ -1,4 +1,4 @@
-package br.com.jonathas.stashFlow.domain;
+package br.com.jonathas.stashflow.domain;
 
 public enum PaymentStatus {
     PENDING,

@@ -1,4 +1,4 @@
-package br.com.jonathas.stashFlow.dto;
+package br.com.jonathas.stashflow.dto;
 
 import java.math.BigDecimal;
 

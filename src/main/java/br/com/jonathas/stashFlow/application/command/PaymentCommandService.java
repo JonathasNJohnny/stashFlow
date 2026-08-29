@@ -1,12 +1,12 @@
-package br.com.jonathas.stashFlow.application.command;
+package br.com.jonathas.stashflow.application.command;
 
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import br.com.jonathas.stashFlow.domain.Payment;
-import br.com.jonathas.stashFlow.dto.CreatePaymentRequest;
-import br.com.jonathas.stashFlow.dto.PaymentResponse;
-import br.com.jonathas.stashFlow.repository.PaymentRepository;
+import br.com.jonathas.stashflow.domain.Payment;
+import br.com.jonathas.stashflow.dto.CreatePaymentRequest;
+import br.com.jonathas.stashflow.dto.PaymentResponse;
+import br.com.jonathas.stashflow.repository.PaymentRepository;
 
 @Service
 public class PaymentCommandService {

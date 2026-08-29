@@ -1,4 +1,4 @@
-package br.com.jonathas.stashFlow;
+package br.com.jonathas.stashflow;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
